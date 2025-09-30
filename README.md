@@ -1,17 +1,28 @@
-<<<<<<< HEAD
-# React + Vite
+# 📝 ToDo List in React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Una semplice **ToDo List** sviluppata con **React**.  
+Permette di aggiungere, eliminare e riordinare le attività in una lista.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Funzionalità
 
-## Expanding the ESLint configuration
+- ➕ **Aggiungi task** alla lista  
+- ❌ **Elimina task** selezionata  
+- ⬆️⬇️ **Sposta task** verso l’alto o verso il basso  
+- ✨ Interfaccia semplice e minimale  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# To-Do-List
-A diary
->>>>>>> 0e3e9332d466c2b7f0fc2c1d09557ab409ae22cd
+---
+
+## 📂 Struttura del progetto
+
+- `ToDoList.js` → contiene il componente principale con tutta la logica della lista  
+- Stato gestito con **React Hooks (`useState`)**
+
+---
+
+## ⚙️ Installazione ed esecuzione
+
+1. Clona la repository:
+   ```bash
+   git clone https://github.com/tuo-username/todolist.git
