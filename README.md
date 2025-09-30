@@ -18,11 +18,3 @@ Permette di aggiungere, eliminare e riordinare le attività in una lista.
 
 - `ToDoList.js` → contiene il componente principale con tutta la logica della lista  
 - Stato gestito con **React Hooks (`useState`)**
-
----
-
-## ⚙️ Installazione ed esecuzione
-
-1. Clona la repository:
-   ```bash
-   git clone https://github.com/tuo-username/todolist.git
