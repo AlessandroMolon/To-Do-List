@@ -16,5 +16,5 @@ Permette di aggiungere, eliminare e riordinare le attività in una lista.
 
 ## 📂 Struttura del progetto
 
-- `ToDoList.js` → contiene il componente principale con tutta la logica della lista  
+- `ToDoList.jsx` → contiene il componente principale con tutta la logica della lista  
 - Stato gestito con **React Hooks (`useState`)**
